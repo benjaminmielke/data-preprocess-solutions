@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Vehicle Service PP", "Vehicle Service PP.dtproj", "{3A0275E5-61DA-4FA9-B9EB-6E05BA51849E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0275E5-61DA-4FA9-B9EB-6E05BA51849E}.Development|Default.ActiveCfg = Development
+		{3A0275E5-61DA-4FA9-B9EB-6E05BA51849E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1113654E-F7D3-4A81-8296-4837AAB2A5EA}
+	EndGlobalSection
+EndGlobal
