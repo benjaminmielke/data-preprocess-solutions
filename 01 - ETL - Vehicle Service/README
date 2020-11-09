@@ -1,0 +1,12 @@
+This is a link to my Google Drive of a folder that contains an example of ETL that I completed on a test data set. 
+
+I use an efficient and effective process of folder creation that ensures no errors are missed and data is preprocessed correctly and thoroughly before being loaded into an SQL database. 
+
+The original file is put into an Original Data folder where it will not be touched any further. 
+The data is then copied into a Prepared Data folder where processing is completed using Notepad++ and SSIS. 
+Once preparation is completed, the data is copied into the Uploaded Data folder which is used to load into SQL using SSIS.
+
+The Analysis folder contains records or Manually and Automatically discovered/corrected data records. 
+
+In this problem, the data file is too large to upload into Excel to convert data types into correct formats, therefore, the data was split into two to complete this step.
+
